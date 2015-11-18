@@ -55,8 +55,7 @@ puts "The ninth month in 3 letters is #{ninth_month_string}"
 
 ##### Further Challenges (not required),  try to write the expectation first if you can.
 
-http://ruby-doc.org/core-2.1.4/Float.html
-#Create Git Repo 
+#http://ruby-doc.org/core-2.1.4/Float.html 
 ####Given the radius of a sphere calculate the volume
 ####Can you extend this to calculate other shapes' volumes? (Cylinder, Rectangular Prism, Cone, Capsule)
 
